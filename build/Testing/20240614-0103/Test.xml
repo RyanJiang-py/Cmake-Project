@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240614-0103-Experimental"
+	Name="Hyperblox"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="Hyperblox"
+	OSRelease="5.15.0-91-generic"
+	OSVersion="#101-Ubuntu SMP Tue Nov 14 13:30:08 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="31858"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2712.55"
+	>
+	<Testing>
+		<StartDateTime>Jun 13 21:32 EDT</StartDateTime>
+		<StartTestTime>1718328758</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 13 21:32 EDT</EndDateTime>
+		<EndTestTime>1718328758</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

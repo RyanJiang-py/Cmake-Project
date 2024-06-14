@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ryan/Documents/Code/Cmake Project/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/RPG.dir/main.cpp.o -c \"/home/ryan/Documents/Code/Cmake Project/main.cpp\"",
+  "file": "/home/ryan/Documents/Code/Cmake Project/main.cpp"
+}
+]
